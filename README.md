@@ -8,9 +8,6 @@ O simulador permite ao usuário:
 -   Visualizar a animação da aproximação da série conforme o número de termos é alterado.
 -   Salvar a animação completa (de $n=1$ a 100) como um arquivo **GIF animado**.
 
-![Exemplo de GIF gerado pelo simulador](https://i.imgur.com/8QlkW0X.gif)
-
----
 
 ## ✨ Funcionalidades Principais
 
