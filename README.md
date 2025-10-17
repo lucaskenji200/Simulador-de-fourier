@@ -66,7 +66,7 @@ pip install sympy numpy matplotlib Pillow
 Agora, execute o script:
 
 ```bash
-python fourier_simulator.py
+python SimuladorFourier.py
 ```
 
 ---
